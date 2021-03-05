@@ -1,9 +1,9 @@
 About defusedxml
 ================
 
-Home: https://bitbucket.org/tiran/defusedxml
+Home: https://github.com/tiran/defusedxml
 
-Package license: PSF 2.0
+Package license: PSF-2.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/defusedxml-feedstock/blob/master/LICENSE.txt)
 
